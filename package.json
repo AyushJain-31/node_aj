@@ -1,0 +1,19 @@
+{
+  "name": "node_aj",
+  "version": "1.0.0",
+  "description": "Very simple node application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyushJain-31/node_aj.git"
+  },
+  "author": "Ayush Jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AyushJain-31/node_aj/issues"
+  },
+  "homepage": "https://github.com/AyushJain-31/node_aj#readme"
+}
