@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AyushJain-31/node_aj/issues"
   },
-  "homepage": "https://github.com/AyushJain-31/node_aj#readme"
+  "homepage": "https://github.com/AyushJain-31/node_aj#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
